@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/IamRaviMaurya/sweet-shop/static/css/main.2c4c86d9.css",
+    "main.js": "/IamRaviMaurya/sweet-shop/static/js/main.60405806.js",
+    "static/js/453.65f03f3b.chunk.js": "/IamRaviMaurya/sweet-shop/static/js/453.65f03f3b.chunk.js",
+    "static/media/radha-krishna.png": "/IamRaviMaurya/sweet-shop/static/media/radha-krishna.13bb5d8b91a9791f8895.png",
+    "index.html": "/IamRaviMaurya/sweet-shop/index.html",
+    "main.2c4c86d9.css.map": "/IamRaviMaurya/sweet-shop/static/css/main.2c4c86d9.css.map",
+    "main.60405806.js.map": "/IamRaviMaurya/sweet-shop/static/js/main.60405806.js.map",
+    "453.65f03f3b.chunk.js.map": "/IamRaviMaurya/sweet-shop/static/js/453.65f03f3b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c4c86d9.css",
+    "static/js/main.60405806.js"
+  ]
+}

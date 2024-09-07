@@ -1,0 +1,19 @@
+.offer-bar {
+    background-color: #761700; /* Bright color for attention */
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    font-size: 16px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .offer-bar p {
+    margin: 0;
+  }
+  
+  /* Make sure the offer bar looks good on mobile screens */
+  @media (max-width: 768px) {
+    .offer-bar {
+      font-size: 14px;
+    }
+  }

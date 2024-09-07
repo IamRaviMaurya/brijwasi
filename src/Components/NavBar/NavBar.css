@@ -1,0 +1,132 @@
+/* General styles for the NavBar */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #f8f8f8;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Styling for the logo section */
+.nav-logo {
+  display: flex;
+  align-items: center;
+}
+
+.nav-logo img {
+  width: 50px;
+  /* Adjust as per the size of your logo */
+  height: auto;
+}
+
+.nav-logo p {
+  font-size: 24px;
+  margin-left: 10px;
+  color: #761700;
+}
+
+/* Styling for the menu items */
+.nav-menu {
+  display: flex;
+  list-style: none;
+}
+
+.nav-menu li {
+  margin: 0 15px;
+  font-size: 18px;
+  cursor: pointer;
+  color: #a04040;
+}
+
+.nav-menu li:hover {
+  color: #761700;
+  font-weight: bold;
+}
+
+/* Login button and cart icon container */
+.nav-login-cart {
+  display: flex;
+  align-items: center;
+}
+
+.nav-login-cart button {
+  background-color: #a04040;
+  color: white;
+  border: none;
+  padding: 8px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-right: 20px;
+}
+
+.nav-login-cart button:hover {
+  background-color: #761700;
+}
+
+/* Cart icon and count */
+.cart-container {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.cart-container img {
+  width: 30px;
+  height: auto;
+  cursor: pointer;
+}
+
+.cart-count {
+  position: absolute;
+  top: -8px;
+  right: -8px;
+  background-color: #761700;
+  color: white;
+  border-radius: 50%;
+  padding: 4px 8px;
+  font-size: 10px;
+}
+
+.nav-dropdown {
+  display: none;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .nav-menu {
+    display: none;
+  }
+
+  .nav-login-cart button {
+    font-size: 14px;
+  }
+
+  .cart-container img {
+    width: 25px;
+  }
+
+  .nav-dropdown {
+    display: block;
+    width: 30px;
+    transition: 0.5s;
+  }
+
+  .nav-menu-visible {
+    display: flex;
+    height: 30px;
+    width: 100%;
+    position: absolute;
+    background-color: #f8f8f8;
+    justify-content: center;
+    top: 115px;
+    padding: 15px 0px;
+    margin-left: -20px;
+}
+
+  .nav-dropdown.open {
+    transform: rotate(90deg);
+  }
+
+}
