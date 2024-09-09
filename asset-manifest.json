@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/brijwasi/static/css/main.c52c3de6.css",
-    "main.js": "/brijwasi/static/js/main.9fae0a11.js",
+    "main.css": "/brijwasi/static/css/main.eb448ad0.css",
+    "main.js": "/brijwasi/static/js/main.151bdba6.js",
     "static/js/453.65f03f3b.chunk.js": "/brijwasi/static/js/453.65f03f3b.chunk.js",
     "static/media/radha-krishna.png": "/brijwasi/static/media/radha-krishna.13bb5d8b91a9791f8895.png",
+    "static/media/Masala Peanuts.jpeg": "/brijwasi/static/media/Masala Peanuts.29be7c261e39a3a861ee.jpeg",
     "static/media/Jalebi.jpeg": "/brijwasi/static/media/Jalebi.5e3cbc744af159b4a287.jpeg",
     "static/media/Bundi Laddu.jpeg": "/brijwasi/static/media/Bundi Laddu.5f775bb8ac8d943e3157.jpeg",
+    "static/media/How to Make Poha Chivda _ Chivda Namkeen - Diwali Special Recipe + Video.jpeg": "/brijwasi/static/media/How to Make Poha Chivda _ Chivda Namkeen - Diwali Special Recipe + Video.17afad16acd528b17049.jpeg",
     "static/media/Khowa_Peda.jpeg": "/brijwasi/static/media/Khowa_Peda.7148bfb02d0f6d64ea00.jpeg",
     "static/media/Sonpapadi.jpeg": "/brijwasi/static/media/Sonpapadi.b9dbc6ba08d2ae7641c5.jpeg",
     "static/media/Rasgulla.jpeg": "/brijwasi/static/media/Rasgulla.18d50ce79ea8c154e325.jpeg",
+    "static/media/Murmure Namkeen Recipe _ Murmura Chivda Recipe _ Salted Puffed Rice.jpeg": "/brijwasi/static/media/Murmure Namkeen Recipe _ Murmura Chivda Recipe _ Salted Puffed Rice.1e5c7594857ba0f164c3.jpeg",
+    "static/media/Moong Dal Namkeen.jpeg": "/brijwasi/static/media/Moong Dal Namkeen.beb08b39a013841d1b16.jpeg",
     "static/media/Gulabjamun.jpeg": "/brijwasi/static/media/Gulabjamun.af8ddf0b38c0cf86dc8e.jpeg",
-    "static/media/Champakali.jpeg": "/brijwasi/static/media/Champakali.128fc8c2065609172111.jpeg",
+    "static/media/Food Shot02.jpeg": "/brijwasi/static/media/Food Shot02.f557f3c6fe8ec72f78d1.jpeg",
+    "static/media/Poha chivda no deep fry recipe _ Diwali 2016 snack recipes.jpeg": "/brijwasi/static/media/Poha chivda no deep fry recipe _ Diwali 2016 snack recipes.ef38e04911bf57a4a6ce.jpeg",
     "index.html": "/brijwasi/index.html",
-    "main.c52c3de6.css.map": "/brijwasi/static/css/main.c52c3de6.css.map",
-    "main.9fae0a11.js.map": "/brijwasi/static/js/main.9fae0a11.js.map",
+    "main.eb448ad0.css.map": "/brijwasi/static/css/main.eb448ad0.css.map",
+    "main.151bdba6.js.map": "/brijwasi/static/js/main.151bdba6.js.map",
     "453.65f03f3b.chunk.js.map": "/brijwasi/static/js/453.65f03f3b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c52c3de6.css",
-    "static/js/main.9fae0a11.js"
+    "static/css/main.eb448ad0.css",
+    "static/js/main.151bdba6.js"
   ]
 }
