@@ -8,7 +8,8 @@ const Products = ({ title, data }) => {
       <h1>{title}</h1>
       <hr />
       <div className="popular-item">
-        {data.map((item, i) => (
+      {data.length > 0 ? (
+        data.map((item, i) => (
           <Item
             key={i}
             id={item.id}
@@ -17,7 +18,9 @@ const Products = ({ title, data }) => {
             new_price={item.new_price}
             old_price={item.old_price}
           />
-        ))}
+        ))):(
+          <p>No products found</p>
+        )}
       </div>
     </div>
   );
