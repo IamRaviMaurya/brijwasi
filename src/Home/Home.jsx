@@ -23,9 +23,9 @@ const Home = () => {
   return (
     <div>
       <SearchBar onSearch={handleSearch}/>
-      <Products title="Sweets" data={filterData(data_sweets)}/>
-      <Products title="Namkeen" data={filterData(data_namkeens)}/>
       <Products title="Snacks" data={filterData(data_snacks)}/>
+      <Products title="Namkeen" data={filterData(data_namkeens)}/>
+      <Products title="Sweets" data={filterData(data_sweets)}/>
       <Products title="Drinks" data={filterData(data_drinks)}/>
     </div>
   )
