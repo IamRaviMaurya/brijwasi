@@ -110,6 +110,7 @@
   .nav-dropdown {
     display: block;
     width: 30px;
+    margin-left: -90px;
     transition: 0.5s;
   }
 
@@ -120,8 +121,8 @@
     position: absolute;
     background-color: #f8f8f8;
     justify-content: center;
-    top: 115px;
-    padding: 15px 0px;
+    top: 110px;
+    padding: 13px 0px;
     margin-left: -20px;
 }
 
@@ -129,4 +130,11 @@
     transform: rotate(90deg);
   }
 
+  .nav-logo p {
+    font-size: 20px;
+  }
+
+  .navbar li {
+    font-size: 15px;
+  }
 }

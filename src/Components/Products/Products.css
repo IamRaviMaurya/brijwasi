@@ -25,29 +25,21 @@
   }
   
   .popular-item {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-    justify-content: center;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* 2 items per row for small screens */
+    gap: 0px; /* Space between items */
   }
   
-  /* Ensure each item takes equal space and adjusts for different screen sizes */
-  .popular-item > * {
-    flex: 1 1 calc(33.333% - 40px); /* 3 items per row with gap adjustment */
-    max-width: calc(33.333% - 40px); /* Same as flex-basis to ensure correct sizing */
-  }
-  
-  @media (max-width: 1024px) {
-    .popular-item > * {
-      flex: 1 1 calc(50% - 40px); /* 2 items per row on medium screens */
-      max-width: calc(50% - 40px); /* Same as flex-basis for consistent sizing */
+  @media (min-width: 768px) {
+    .popular-item {
+      grid-template-columns: repeat(3, 1fr); /* 3 items per row for medium devices (tablets) */
     }
   }
   
-  @media (max-width: 600px) {
-    .popular-item > * {
-      flex: 35%; /* 1 item per row on small screens */
-      max-width: 100%; /* Full width */
+  @media (min-width: 1024px) {
+    .popular-item {
+      grid-template-columns: repeat(6, 1fr); /* 6 items per row for larger screens (desktops) */
+      padding: 0px 450px;
     }
   }
   
