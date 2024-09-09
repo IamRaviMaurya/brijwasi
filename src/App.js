@@ -1,8 +1,8 @@
 import "./App.css";
 import { Route, HashRouter as Router, Routes } from "react-router-dom";
-import NavBar from "./Components/NavBar/NavBar";
 import OfferBar from "./Components/OfferBar/OfferBar";
 import Home from "./Home/Home";
+import NavBar from "./Components/NavBar/NavBar";
 
 function App() {
   return (
