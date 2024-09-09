@@ -1,28 +1,43 @@
 {
   "files": {
     "main.css": "/brijwasi/static/css/main.675b8556.css",
-    "main.js": "/brijwasi/static/js/main.5c85e5f9.js",
+    "main.js": "/brijwasi/static/js/main.7364f04f.js",
     "static/js/453.65f03f3b.chunk.js": "/brijwasi/static/js/453.65f03f3b.chunk.js",
     "static/media/radha-krishna.png": "/brijwasi/static/media/radha-krishna.13bb5d8b91a9791f8895.png",
+    "static/media/Gujarati Dal Vada (Lentil Fritters) - Cooking Carnival.jpeg": "/brijwasi/static/media/Gujarati Dal Vada (Lentil Fritters) - Cooking Carnival.58b25d7ffe98b9cc91d0.jpeg",
     "static/media/Masala Peanuts.jpeg": "/brijwasi/static/media/Masala Peanuts.29be7c261e39a3a861ee.jpeg",
+    "static/media/Frooti mango drink.jpeg": "/brijwasi/static/media/Frooti mango drink.78c7874b87ecfad67f6e.jpeg",
+    "static/media/Raj Kachori.jpeg": "/brijwasi/static/media/Raj Kachori.b1dabb1d2294ce4b94eb.jpeg",
+    "static/media/Bread pakora recipe.jpeg": "/brijwasi/static/media/Bread pakora recipe.0fd47ba8c6ab5ccf4843.jpeg",
+    "static/media/Kanda Bhaji.jpeg": "/brijwasi/static/media/Kanda Bhaji.3cde3a70ecc5ed93fd33.jpeg",
+    "static/media/Sprite.jpeg": "/brijwasi/static/media/Sprite.93d9809cd7d91b684e27.jpeg",
     "static/media/Jalebi.jpeg": "/brijwasi/static/media/Jalebi.5e3cbc744af159b4a287.jpeg",
     "static/media/Bundi Laddu.jpeg": "/brijwasi/static/media/Bundi Laddu.5f775bb8ac8d943e3157.jpeg",
+    "static/media/Banana Lassi Recipe _ How To Make Banana Lassi _ HungryForever.jpeg": "/brijwasi/static/media/Banana Lassi Recipe _ How To Make Banana Lassi _ HungryForever.8edd4dc066e43ce9a7d6.jpeg",
+    "static/media/thumbsup poster.jpeg": "/brijwasi/static/media/thumbsup poster.bcc38e0ec74bd5b24f71.jpeg",
+    "static/media/Instant Khaman Dhokla.jpeg": "/brijwasi/static/media/Instant Khaman Dhokla.a86a9d5d3ecc07b71e8d.jpeg",
+    "static/media/Calories for Aloo Pakora, Potato Pakoda, Is Aloo Pakora healthy_.jpeg": "/brijwasi/static/media/Calories for Aloo Pakora, Potato Pakoda, Is Aloo Pakora healthy_.1cfa0c1161a79024e01e.jpeg",
     "static/media/How to Make Poha Chivda _ Chivda Namkeen - Diwali Special Recipe + Video.jpeg": "/brijwasi/static/media/How to Make Poha Chivda _ Chivda Namkeen - Diwali Special Recipe + Video.17afad16acd528b17049.jpeg",
+    "static/media/Vada Pav _ Vada Pav Recipe _ Vada Pav Sukha Chutney _ वड़ा पाव _ Chef Sanjyot Keer _ By Your Food LabFacebook.jpeg": "/brijwasi/static/media/Vada Pav _ Vada Pav Recipe _ Vada Pav Sukha Chutney _ वड़ा पाव _ Chef Sanjyot Keer _ By Your Food LabFacebook.ce6f891f71b69c58f151.jpeg",
+    "static/media/Indian restaurant.jpeg": "/brijwasi/static/media/Indian restaurant.d087be4bdcf769225e0f.jpeg",
     "static/media/Khowa_Peda.jpeg": "/brijwasi/static/media/Khowa_Peda.7148bfb02d0f6d64ea00.jpeg",
+    "static/media/Coco cola.jpeg": "/brijwasi/static/media/Coco cola.95272d60272db839c9d3.jpeg",
     "static/media/Sonpapadi.jpeg": "/brijwasi/static/media/Sonpapadi.b9dbc6ba08d2ae7641c5.jpeg",
     "static/media/Rasgulla.jpeg": "/brijwasi/static/media/Rasgulla.18d50ce79ea8c154e325.jpeg",
+    "static/media/Real Magic.jpeg": "/brijwasi/static/media/Real Magic.47aa948eaf035c0ae562.jpeg",
     "static/media/Murmure Namkeen Recipe _ Murmura Chivda Recipe _ Salted Puffed Rice.jpeg": "/brijwasi/static/media/Murmure Namkeen Recipe _ Murmura Chivda Recipe _ Salted Puffed Rice.1e5c7594857ba0f164c3.jpeg",
     "static/media/Moong Dal Namkeen.jpeg": "/brijwasi/static/media/Moong Dal Namkeen.beb08b39a013841d1b16.jpeg",
     "static/media/Gulabjamun.jpeg": "/brijwasi/static/media/Gulabjamun.af8ddf0b38c0cf86dc8e.jpeg",
     "static/media/Food Shot02.jpeg": "/brijwasi/static/media/Food Shot02.f557f3c6fe8ec72f78d1.jpeg",
+    "static/media/Masala Chaas Recipe (Spiced Indian Buttermilk).jpeg": "/brijwasi/static/media/Masala Chaas Recipe (Spiced Indian Buttermilk).f782dfa01225d62b5f20.jpeg",
     "static/media/Poha chivda no deep fry recipe _ Diwali 2016 snack recipes.jpeg": "/brijwasi/static/media/Poha chivda no deep fry recipe _ Diwali 2016 snack recipes.ef38e04911bf57a4a6ce.jpeg",
     "index.html": "/brijwasi/index.html",
     "main.675b8556.css.map": "/brijwasi/static/css/main.675b8556.css.map",
-    "main.5c85e5f9.js.map": "/brijwasi/static/js/main.5c85e5f9.js.map",
+    "main.7364f04f.js.map": "/brijwasi/static/js/main.7364f04f.js.map",
     "453.65f03f3b.chunk.js.map": "/brijwasi/static/js/453.65f03f3b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.675b8556.css",
-    "static/js/main.5c85e5f9.js"
+    "static/js/main.7364f04f.js"
   ]
 }
