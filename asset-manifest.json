@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/brijwasi/static/css/main.dd8af3e9.css",
+    "main.css": "/brijwasi/static/css/main.675b8556.css",
     "main.js": "/brijwasi/static/js/main.5c85e5f9.js",
     "static/js/453.65f03f3b.chunk.js": "/brijwasi/static/js/453.65f03f3b.chunk.js",
     "static/media/radha-krishna.png": "/brijwasi/static/media/radha-krishna.13bb5d8b91a9791f8895.png",
@@ -17,12 +17,12 @@
     "static/media/Food Shot02.jpeg": "/brijwasi/static/media/Food Shot02.f557f3c6fe8ec72f78d1.jpeg",
     "static/media/Poha chivda no deep fry recipe _ Diwali 2016 snack recipes.jpeg": "/brijwasi/static/media/Poha chivda no deep fry recipe _ Diwali 2016 snack recipes.ef38e04911bf57a4a6ce.jpeg",
     "index.html": "/brijwasi/index.html",
-    "main.dd8af3e9.css.map": "/brijwasi/static/css/main.dd8af3e9.css.map",
+    "main.675b8556.css.map": "/brijwasi/static/css/main.675b8556.css.map",
     "main.5c85e5f9.js.map": "/brijwasi/static/js/main.5c85e5f9.js.map",
     "453.65f03f3b.chunk.js.map": "/brijwasi/static/js/453.65f03f3b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd8af3e9.css",
+    "static/css/main.675b8556.css",
     "static/js/main.5c85e5f9.js"
   ]
 }
