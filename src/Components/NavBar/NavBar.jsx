@@ -31,7 +31,7 @@ const NavBar = () => {
         <li>Drinks</li>
       </ul>
       <div className="nav-login-cart">
-        <button>Login</button>
+        {/* <button>Login</button> */}
         <div className="cart-container">
           <img src={cart_icon} alt="Cart" />
           <span className="cart-count">{0}</span>

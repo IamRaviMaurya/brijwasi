@@ -4,7 +4,6 @@ import p3_img from "../Sweet/Jalebi.jpeg";
 import p4_img from "../Sweet/Khowa_Peda.jpeg";
 import p5_img from "../Sweet/Rasgulla.jpeg";
 import p6_img from "../Sweet/Sonpapadi.jpeg";
-import p7_img from "../Sweet/Champakali.jpeg";
 
 
 let data_product = [
@@ -49,14 +48,7 @@ let data_product = [
     image: p6_img,
     new_price: 100.0,
     old_price: 150.0,
-  },
-  {
-    id: 7,
-    name: "Champakali celebrations and special occasions",
-    image: p7_img,
-    new_price: 100.0,
-    old_price: 150.0,
-  },
+  }
   
 ];
 

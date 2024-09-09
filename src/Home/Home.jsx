@@ -1,14 +1,14 @@
 import React from 'react'
-import Namkeen from '../Components/Namkeen/Namkeen'
-import Sweet from '../Components/Sweet/Sweet'
+import Products from '../Components/Products/Products'
+import data_namkeens from "../Assets/Json Data/Namkeen";
+import dat_sweets from "../Assets/Json Data/sweets";
+
 
 const Home = () => {
   return (
     <div>
-      <Sweet/>
-      <Namkeen/>
-      <Sweet/>
-      <Namkeen/>
+      <Products title="Sweets" data={dat_sweets}/>
+      <Products title="Namkeen" data={data_namkeens}/>
     </div>
   )
 }
