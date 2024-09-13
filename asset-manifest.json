@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/brijwasi/static/css/main.1f4d9f73.css",
+    "main.css": "/brijwasi/static/css/main.15db4665.css",
     "main.js": "/brijwasi/static/js/main.0ad97297.js",
     "static/js/453.65f03f3b.chunk.js": "/brijwasi/static/js/453.65f03f3b.chunk.js",
     "static/media/radha-krishna.png": "/brijwasi/static/media/radha-krishna.13bb5d8b91a9791f8895.png",
@@ -32,12 +32,12 @@
     "static/media/Masala Chaas Recipe (Spiced Indian Buttermilk).jpeg": "/brijwasi/static/media/Masala Chaas Recipe (Spiced Indian Buttermilk).f782dfa01225d62b5f20.jpeg",
     "static/media/Poha chivda no deep fry recipe _ Diwali 2016 snack recipes.jpeg": "/brijwasi/static/media/Poha chivda no deep fry recipe _ Diwali 2016 snack recipes.ef38e04911bf57a4a6ce.jpeg",
     "index.html": "/brijwasi/index.html",
-    "main.1f4d9f73.css.map": "/brijwasi/static/css/main.1f4d9f73.css.map",
+    "main.15db4665.css.map": "/brijwasi/static/css/main.15db4665.css.map",
     "main.0ad97297.js.map": "/brijwasi/static/js/main.0ad97297.js.map",
     "453.65f03f3b.chunk.js.map": "/brijwasi/static/js/453.65f03f3b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f4d9f73.css",
+    "static/css/main.15db4665.css",
     "static/js/main.0ad97297.js"
   ]
 }
