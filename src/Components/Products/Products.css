@@ -26,10 +26,20 @@
   
   .popular-item {
     display: grid;
-    grid-template-columns: repeat(2, 1fr); /* 2 items per row for small screens */
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
     gap: 0px; /* Space between items */
   }
   
+
+  @media (max-width: 500px) {
+    .popular-item {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: 0px; /* Space between items */
+      align-items: center;
+    }
+  }
+
   @media (min-width: 768px) {
     .popular-item {
       grid-template-columns: repeat(3, 1fr); /* 3 items per row for medium devices (tablets) */
@@ -42,4 +52,6 @@
       padding: 0px 450px;
     }
   }
+
+
   
