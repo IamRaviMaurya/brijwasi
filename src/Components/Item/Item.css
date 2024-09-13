@@ -63,4 +63,9 @@
   .item-price-new, .item-price-old {
       font-size: 1rem; /* Adjust font size for smaller screens */
   }
+  
+  .item img {
+    width: 130px; /* Fixed width for consistency */
+  }
+  
 }
